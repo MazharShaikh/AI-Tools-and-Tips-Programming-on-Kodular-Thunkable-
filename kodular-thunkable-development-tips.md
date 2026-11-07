@@ -72,6 +72,7 @@ The titles below are based on the URL slugs supplied from the blog sitemap. Wher
 
 ### Kodular Projects & Troubleshooting
 
+- [Build an AI Chatbot App in Kodular: Gemini API Tutorial](https://toenta.blogspot.com/2026/11/build-ai-chatbot-app-in-kodular-gemini.html)
 - [How to Create a Custom Dark Mode Theme Toggle in Kodular](https://toenta.blogspot.com/2026/11/how-to-create-custom-dark-mode-theme.html)
 - [How to Create a Secure Local App Lock PIN Screen in Kodular](https://toenta.blogspot.com/2026/11/how-to-create-secure-local-app-lock-pin.html)
 - [How to Prepare and Export Your Kodular ...](https://toenta.blogspot.com/2026/10/how-to-prepare-and-export-your-kodular.html)
