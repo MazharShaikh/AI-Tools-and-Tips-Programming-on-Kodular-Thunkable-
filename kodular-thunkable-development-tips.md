@@ -20,7 +20,7 @@ The titles below are based on the URL slugs supplied from the blog sitemap. Wher
 
 ### AI & Programming
 
-
+- [How Small Businesses Can Start Using AI in 30 Days](https://toenta.blogspot.com/2026/11/30-day-ai-plan-for-small-businesses.html)
 - [Best AI Tools for Creativity and Brainstorming](https://toenta.blogspot.com/2026/11/best-ai-tools-for-creativity-and.html)
 - [Supercharge Your Productivity with AI Workflow Automation in 2026](https://toenta.blogspot.com/2026/10/ai-workflow-automation-2026-ultimate.html)
 - [Best AI Tools for Image Generation & Art (2026 Guide)](https://toenta.blogspot.com/2026/10/best-ai-tools-for-image-generation-and.html)
