@@ -1,11 +1,14 @@
-# Toenta Blog — Kodular, Thunkable & Android Development Resources
+# Toenta Blog — AI Tools and Tips & Android Development Resources
 
-This repository accompanies [Toenta Blog](https://toenta.blogspot.com/), which publishes tutorials and resources about visual Android app development, Kodular, Thunkable, AIA project files, AIX extensions, Firebase, APIs, app performance, and troubleshooting.
+This repository accompanies [Toenta Blog](https://toenta.blogspot.com/), which publishes tutorials and resources about AI Tools and Tips, visual Android app development, Kodular, Thunkable, AIA project files, AIX extensions, Firebase, APIs, app performance and troubleshooting.
 
 > **Full tutorials:** Visit [Toenta Blog](https://toenta.blogspot.com/) for the complete articles, screenshots, and step-by-step explanations. This repository is a companion index and should contain only original notes, examples, or resources that you have permission to share.
 
 ## What this repository covers
 
+- Latest AIs
+- AI Tips
+- Use of AI Tools 
 - Kodular and Thunkable project development
 - AIA project packs and AIX extension resources
 - Firebase, local storage, and cloud data
