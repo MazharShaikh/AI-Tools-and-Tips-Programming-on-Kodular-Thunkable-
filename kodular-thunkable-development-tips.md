@@ -88,30 +88,6 @@ The titles below are based on the URL slugs supplied from the blog sitemap. Wher
 
 - [How to Optimize Android App Performance](https://toenta.blogspot.com/2026/10/how-to-optimize-android-app-performance.html)
 
-### AIA Project Packs
-
-- [AIA File Pack 10 for Thunkable](https://toenta.blogspot.com/2019/01/aia-file-pack-10-for-thunkable.html)
-- [AIA File Pack 9 for Thunkable](https://toenta.blogspot.com/2019/01/aia-file-pack-9-for-thunkable.html)
-- [AIA File Pack 7 for Thunkable (URL variant 1)](https://toenta.blogspot.com/2019/01/aia-file-pack-7-for-thunkable_8.html)
-- [AIA File Pack 7 for Thunkable (URL variant 2)](https://toenta.blogspot.com/2019/01/aia-file-pack-7-for-thunkable.html)
-- [AIA File Pack 6 for Thunkable](https://toenta.blogspot.com/2019/01/aia-file-pack-6-for-thunkable.html)
-- [AIA File Pack 5 for Thunkable](https://toenta.blogspot.com/2019/01/aia-file-pack-5-for-thunkable.html)
-- [AIA File Pack 1 for Thunkable (URL variant 1)](https://toenta.blogspot.com/2019/01/aia-file-pack-1-for-thunkable_8.html)
-- [AIA File Pack 3 for Thunkable](https://toenta.blogspot.com/2019/01/aia-file-pack-3-for-thunkable.html)
-- [AIA File Pack 2 for Thunkable](https://toenta.blogspot.com/2019/01/aia-file-pack-2-for-thunkable.html)
-- [AIA File Pack 1 for Thunkable (URL variant 2)](https://toenta.blogspot.com/2019/01/aia-file-pack-1-for-thunkable.html)
-
-### AIX Extension Packs
-
-- [Android Extension AIX File Pack 3 (URL variant 1)](https://toenta.blogspot.com/2019/01/android-extension-aix-file-pack-3-for_8.html)
-- [Android Extension AIX File Pack 3 (URL variant 2)](https://toenta.blogspot.com/2019/01/android-extension-aix-file-pack-3-for.html)
-- [Android Extension AIX File Pack 2](https://toenta.blogspot.com/2019/01/android-extension-aix-file-pack-2-for.html)
-- [Android Extension AIX File Pack 1](https://toenta.blogspot.com/2019/01/android-extension-aix-file-pack-1-for.html)
-
-### JavaScript & Examples
-
-- [Java Script for Ball Drop](https://toenta.blogspot.com/2019/01/java-script-for-ball-drop.html)
-
 ## Practical development checklist
 
 ### Project organization
